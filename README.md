@@ -30,8 +30,8 @@ The customer version allows the user to:
  - Login to the application
  - Select the destination and source locations on a map
  - Select a truck to use for transportation
- - Calculate the distance between the selected locations
- - Calculate the fare for transportation based on the selected truck and distance
+ - It automatically calculates the distance between the selected locations
+ - It automatically calculates the fare for transportation based on the selected truck and distance
   
 ## Driver Version
 The driver version allows the user to:
