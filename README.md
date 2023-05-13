@@ -1,6 +1,8 @@
 # Truck-loading
 
 The Truck Loading Application is a lightweight Android application made with Java language in Android Studio. It uses Google Firebase for database management, login authentication, and to store other information. The application is divided into three different modules: Customer Modules, Driver module, and Admin module.
+
+## Screens
 <div style="display: flex; justify-content: center">
    <img src="https://github.com/atisamhaq123/Truck-loading/blob/main/Screens/2.jpg" width="" height="500">&nbsp;&nbsp;&nbsp;&nbsp;
    <img src="https://github.com/atisamhaq123/Truck-loading/blob/main/Screens/3.jpg" width="" height="500">&nbsp;&nbsp;&nbsp;&nbsp;
