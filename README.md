@@ -7,9 +7,8 @@ The application has the following features:
  - Login authentication
  - Maps to locate positions
  - Distance calculation
- - Fare calculation for shifting luggage
+ - Fare calculation
  - Availability of various trucks
- - Different fare rates for different trucks for the same distance due to different engine capacities
 
 ## Installation
 Clone the repository to your local machine
@@ -28,22 +27,19 @@ The customer version allows the user to:
 ## Driver Version
 The driver version allows the user to:
  - Login to the application
- - iew all assigned transportation jobs
+ - View all assigned transportation jobs
  - Update the status of the assigned jobs (pending, in progress, completed)
  - View the details of each job, including source and destination locations, selected truck, distance, and fare
+ - 
 ## Admin Version
 The admin version allows the user to:
  - Add, edit, or delete trucks available for transportation
+ - Add, edit, or delete details of users  (both driver and customers)
  - View and manage all transportation jobs
  - View the details of each job, including source and destination locations, selected truck, distance, and fare
+ - 
 ## Contributing
 If you would like to contribute to the project, please fork the repository, make your changes, and create a pull request.
 
 ## License
 This project is licensed under the MIT license. Please see the LICENSE file for more information.
-
-
-
-
-
-
