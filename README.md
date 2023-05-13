@@ -23,7 +23,11 @@ The application has the following features:
  - Extract Zip files from "Code" folder
  - Open project in Android Studio
  - Build the project and ensure all dependencies are downloaded
- - To use this Android app project with Firebase, you'll need to set up your own Firebase project and download your own google-services.json file. Follow the steps in the Firebase console and replace the google-services.json file in the project directory.
+ - To use this Android app project with Firebase, you'll need to set up your own Firebase project
+ - Download your own google-services.json file. Follow the steps in the Firebase console
+ - Replace the google-services.json file in the project directory.
+ - Setup Firebase Cloud storage and add keys for "customer", "driver" and "admin"
+ - Set Read/Write permissions 
 
 # Usage
 ## Customer Version
