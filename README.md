@@ -19,8 +19,9 @@ The application has the following features:
  - Availability of various trucks
 
 ## Installation
-Clone the repository to your local machine
-Open the project in Android Studio
+Clone the repository to your local machine.
+Extract Zip files from "Code" folder
+Open project in Android Studio
 Build the project and ensure all dependencies are downloaded
 
 # Usage
